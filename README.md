@@ -1,2 +1,6 @@
 # moneylegos
 Understanding money legos
+
+
+Contract Address: 0x6E50bE227F9ecae8c2B7828417E448D034194A16
+Transaction Hash: 0xef42f83b190bc16b280f2a96eabb04b15b5f53d4715f2db1a676c9553fe7d607
